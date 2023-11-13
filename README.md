@@ -1,2 +1,2 @@
 # ReactSignalsDemo
-Demo for presentation about React Signals
+Demo for comparing the performance React Context and Preact react-signals
